@@ -8,3 +8,18 @@
 ![badge](https://img.shields.io/github/issues-closed-raw/Sting-R/2025-2026?color=ee7b1a&label=Closed%20Issues&style=flat-square)
 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sting-R&repo=2025-2026&theme=dark)](https://github.com/Sting-R/2025-2026)
+
+**Code**
+- If you're adding code, please make it well-documented. We all would like to know what it is doing without digging around
+- If you would like to add another WPILib project, make sure to ask beforehand.
+- Stick to Java and Python if possible but if you would like to use C++, make it well documented as our team uses Java primarily. (Would need to go in its own WPILib project)
+- Add any examples you would like, can be related to the WPILib API or not. Any examples will help further the understanding of others
+
+**General**
+- Be civil and kind. Giving constructive criticism is okay, but at least be kind about it
+- If you have any questions or have an issue, feel free to start a discussion or open up an issue
+
+---
+Happy Programming!  
+\- [J-The-Fox](https://github.com/J-The-Fox)
+\- [Dreadfall](https://github.com/Dreadfall)
